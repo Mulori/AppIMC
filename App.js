@@ -7,7 +7,7 @@ export default function App() {
     <View style={styles.container}>
     <Text>IMC do Murilo!</Text>
     <Text>Apenas um teste</Text>
-    <Text>Eu tava testando ele</Text>
+    <Text>Eu só tava testando ele</Text>
       <StatusBar style="auto" />
     </View>
   );
